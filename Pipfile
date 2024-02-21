@@ -7,6 +7,10 @@ name = "pypi"
 langchain = "*"
 streamlit = "*"
 langchain-google-genai = "*"
+beautifulsoup4 = "*"
+python-dotenv = "*"
+lxml = "*"
+chromadb = "*"
 
 [dev-packages]
 
